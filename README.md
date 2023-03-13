@@ -71,7 +71,7 @@ I am constantly training and seeking personal and professional growth.</div>
 ## Connect with me  
 <p align="center">
 <a href="https://linkedin.com/in/gabriel-pérez-52557534/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dario-balmaceda-/" height="30" width="40" /></a>
-<a href="https://github.com/dbandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/gabiperez" height="30" width="40" /></a>
+<a href="https://github.com/gabiperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/gabiperez" height="30" width="40" /></a>
 </p> 
 
   
